@@ -1,6 +1,10 @@
 /**
 !/.gitignore
 
+!/fish/
+!/fish/*
+!/fish/**/*
+
 !/nvim/
 !/nvim/*
 !/nvim/**/*
